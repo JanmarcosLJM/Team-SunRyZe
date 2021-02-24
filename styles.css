@@ -1,0 +1,39 @@
+.heading{
+    font-family: 'Reggae One',
+        cursive;
+    display:flex;
+    justify-content:center;
+    color:orange;
+}
+.menu{
+    font-size:20px;
+   display:flex;
+    justify-content:space-around;
+}
+.menuitem{
+    color:orange;
+     font-family: 'Reggae One', cursive;
+}
+h3{
+    color:orange;
+     font-family: 'Reggae One', cursive;
+display:flex;
+    justify-content:center;}
+h2{
+  font-family: 'Reggae One', cursive;
+    color:yellow;
+  display:flex;
+    justify-content:center;
+      
+}
+body{
+background:linear-gradient( to top,#ffd319,#ff901f,#ff2975,	#f222ff,#8c1eff);
+    background-attachment:fixed;
+}
+.content{
+font-family: 'Aclonica', cursive;
+}
+a{
+color:orange;}
+
+  
