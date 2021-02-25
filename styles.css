@@ -36,5 +36,12 @@ font-family: 'Aclonica', cursive;
 }
 a{
 color:orange;}
+img{
+    width:40px;
+}
+.contact{
+display:flex;
+    justify-content:center;
+}
 
   
